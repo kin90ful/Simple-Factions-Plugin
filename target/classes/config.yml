@@ -1,0 +1,5 @@
+power:
+  max: 10.0
+  lossOnDeath: 2.0
+  regenPerTick: 0.5
+  regenInterval: 300 # seconds

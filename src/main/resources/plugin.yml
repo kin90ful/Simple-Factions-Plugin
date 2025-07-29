@@ -1,0 +1,10 @@
+name: EldenFactions
+version: 1.0
+main: com.KinsDirectory.eldenFactions.EldenFactions
+api-version: 1.21.5
+
+commands:
+  f:
+    description: Base factions command
+    usage: /f
+    permission: kinfactions.use
